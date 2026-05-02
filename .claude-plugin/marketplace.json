@@ -1,11 +1,12 @@
 {
-     "name": "flutter-dart-skills",
-     "plugins": [
-       {
-         "name": "flutter-dart",
-         "description": "Production-grade Flutter/Dart widget and screen generation for Claude Code.",
-         "source": "./flutter-dart",
-         "skills": ["./"]
-       }
-     ]
-   }
+  "owner": "gabrielefedericobellone",
+  "name": "flutter-dart-skills",
+  "plugins": [
+    {
+      "name": "flutter-dart",
+      "description": "Production-grade Flutter/Dart widget and screen generation for Claude Code.",
+      "source": "./flutter-dart",
+      "skills": ["./"]
+    }
+  ]
+}
